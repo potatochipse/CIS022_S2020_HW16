@@ -1,0 +1,9 @@
+﻿  BallClass.cpp
+D:\Desktop\CIS 022 HW\CIS023_S2020_HW16\CIS023_S2020_HW16\BallClass.cpp(69,28): warning C4244: '=': conversion from 'double' to 'LONG', possible loss of data
+D:\Desktop\CIS 022 HW\CIS023_S2020_HW16\CIS023_S2020_HW16\BallClass.cpp(73,28): warning C4244: '=': conversion from 'double' to 'LONG', possible loss of data
+  CIS023_S2020_HW16.cpp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 36 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  CIS023_S2020_HW16.vcxproj -> D:\Desktop\CIS 022 HW\CIS023_S2020_HW16\Release\CIS023_S2020_HW16.exe

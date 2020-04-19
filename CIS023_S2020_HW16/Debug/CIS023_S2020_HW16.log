@@ -1,0 +1,6 @@
+﻿  BallClass.cpp
+D:\Desktop\CIS 022 HW\CIS023_S2020_HW16 Miguel Antonio Logarta\CIS023_S2020_HW16\BallClass.cpp(69,28): warning C4244: '=': conversion from 'double' to 'LONG', possible loss of data
+D:\Desktop\CIS 022 HW\CIS023_S2020_HW16 Miguel Antonio Logarta\CIS023_S2020_HW16\BallClass.cpp(73,28): warning C4244: '=': conversion from 'double' to 'LONG', possible loss of data
+  CIS023_S2020_HW16.cpp
+  Generating Code...
+  CIS023_S2020_HW16.vcxproj -> D:\Desktop\CIS 022 HW\CIS023_S2020_HW16 Miguel Antonio Logarta\Debug\CIS023_S2020_HW16.exe
